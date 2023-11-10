@@ -1,5 +1,5 @@
 # macOS-Screen-Sharing-Monitor
-Automatically checks to make sure Screen Sharing is running every 5 minutes. If not, Screen Sharing will be restarted.
+Automatically checks to make sure macOS Screen Sharing is running every 5 minutes. If not, Screen Sharing will be restarted.
 
 **Important: do not run code that you do not trust.**
 
