@@ -68,3 +68,7 @@ sudo launchctl load $FINAL_PLIST_FILE
 
 # Run the monitor script once to test
 $FINAL_MONITOR_SCRIPT
+
+echo "...."
+echo "...."
+echo "macOS Screen Sharing Monitor script has been installed."
